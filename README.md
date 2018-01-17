@@ -22,7 +22,7 @@
  ![](https://github.com/NCNU-OpenSource/Music-box/blob/master/buzz.jpg)</br>
  ### ☆並再8*8點矩陣顯示音階波形圖</br>
 ![](https://github.com/NCNU-OpenSource/Music-box/blob/master/8x8matrix.jpg)</br>
-
+  
  ## 參考資料 ##
  * **蜂鳴器** </br>
    簡易例子 <https://sites.google.com/site/zsgititit/home/raspberry-shu-mei-pai/raspberry-shi-yong-fengbuzzier> </br>
