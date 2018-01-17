@@ -17,7 +17,7 @@
 
 ## 成品 ##
  **利用keypad作為相關按鈕(包含錄音鍵、撥放鍵、歌曲鍵、Do~Si鍵)**</br>
- https://github.com/NCNU-OpenSource/Music-box/blob/a0530c41f72494487b920261d9eca588249a22cd/4x4keypad.jpg</br>
+ ! [123] (Music-box/4x4keypad.jpg)
  **將相對應的鍵值透過蜂鳴器發聲**</br>
  https://github.com/NCNU-OpenSource/Music-box/blob/master/buzz.jpg</br>
  **並再8*8點矩陣顯示音階波形圖**</br>
