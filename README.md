@@ -20,12 +20,12 @@ A music box
    電路圖(接腳) <http://guojianxiang.com/posts/2015-09-06-RP_Controle_FMQ.html> </br>
    
  * **4*4 keypad** </br>
-   <https://github.com/lluppes/pikeypad> </br>
+   https://github.com/lluppes/pikeypad </br>
    
  * **raspberry pin腳對應圖** </br>
-   <https://pinout.xyz> </br>
+   https://pinout.xyz </br>
   
- * **GPI "channel is already in use" 解決方法**
-   <https://www.raspberrypi.org/forums/viewtopic.php?t=111353> </br>
+ * **GPI "channel is already in use" 解決方法** </br>
+   https://www.raspberrypi.org/forums/viewtopic.php?t=111353 </br>
   
  
