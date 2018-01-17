@@ -1,7 +1,8 @@
 # Music-box
 A music box
-使用軟體
--Putty
+## 使用之軟體 ##
+* **Putty**
+
 開發目的
 
 ## 硬體材料來源及價格 ##
