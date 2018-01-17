@@ -39,3 +39,4 @@
    https://www.raspberrypi.org/forums/viewtopic.php?t=111353 </br>
   
 ## 簡報 ##
+<https://github.com/NCNU-OpenSource/Music-box/blob/master/Lsa%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C-Music%20box.pptx></br>
